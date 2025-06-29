@@ -23,7 +23,7 @@ A Streamlit web app to **summarize content from YouTube videos or websites** usi
 ### App Demo
 <img width="1416" alt="image" src="https://github.com/user-attachments/assets/bb068cc0-20ec-482c-a991-8b80e5e00732" />
 
-### LAngsmith Demo
+### Langsmith Demo
 <img width="1691" alt="image" src="https://github.com/user-attachments/assets/581efb2f-99c0-4fec-8951-0f1fe6d06c7a" />
 <br>
 <img width="1695" alt="image" src="https://github.com/user-attachments/assets/37c0e4aa-6c66-4563-9c45-4b2d7cb10ef3" />
