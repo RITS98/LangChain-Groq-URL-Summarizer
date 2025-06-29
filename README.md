@@ -20,7 +20,28 @@ A Streamlit web app to **summarize content from YouTube videos or websites** usi
 
 ## Demo Screenshot
 
-*(Add a screenshot of the Streamlit UI here)*
+### App Demo
+<img width="1416" alt="image" src="https://github.com/user-attachments/assets/bb068cc0-20ec-482c-a991-8b80e5e00732" />
+
+### LAngsmith Demo
+<img width="1691" alt="image" src="https://github.com/user-attachments/assets/581efb2f-99c0-4fec-8951-0f1fe6d06c7a" />
+<br>
+<img width="1695" alt="image" src="https://github.com/user-attachments/assets/37c0e4aa-6c66-4563-9c45-4b2d7cb10ef3" />
+<br>
+<img width="1688" alt="image" src="https://github.com/user-attachments/assets/8563473a-52be-4a12-baae-1c6d05b41c59" />
+
+### Groq Cloud Demo
+<img width="1708" alt="image" src="https://github.com/user-attachments/assets/2f56c75e-fe46-463d-bd27-9d22982fbbc2" />
+<br>
+<img width="1692" alt="image" src="https://github.com/user-attachments/assets/e89b1cbf-eab4-4463-90eb-7f70f2cc0e73" />
+<br>
+<img width="1696" alt="image" src="https://github.com/user-attachments/assets/65b0ffa3-3099-4a84-8bd5-504060e00720" />
+
+
+
+
+
+
 
 
 ## Getting Started
